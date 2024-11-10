@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Budding ML/AI Developer from India</h3>
 
-- 🔭 I’m currently working on [Task Reminder CLI Application](https://github.com/KartikAg13/task_reminder)
+- 🔭 I’m currently working on [Global CO2 Emissions Analysis](https://github.com/KartikAg13/carbon-emission)
 
 - 📫 How to reach me **kartikag.23.04@gmail.com**
 
