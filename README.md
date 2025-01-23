@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **[Iris Species Detection Using Simple Neural Network](https://github.com/KartikAg13/iris_species_nn)**, focusing on deriving actionable insights from data.
+- 🔭 I’m currently working on **[Digit Recognition](https://github.com/KartikAg13/digit_recognition)**, focusing on deriving actionable insights from data.
 
 - 🌱 I’m actively learning and improving my skills in **Machine Learning, Artificial Intelligence, and Data Science**.
 
