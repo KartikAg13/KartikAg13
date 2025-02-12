@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **[Concrete Strength Prediction](https://github.com/KartikAg13/concrete_strength)**, focusing on deriving actionable insights from data.
+- 🔭 I’m currently working on **[Product Website](https://github.com/KartikAg13/product_website)**, focusing on deriving actionable insights from data.
 
 - 🌱 I’m actively learning and improving my skills in **Machine Learning, Artificial Intelligence, and Data Science**.
 
