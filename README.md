@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **[TripIt](https://github.com/KanishkRichhariya107/TripIt)**.
+- 🔭 I’m currently working on **[DigitDecoder](https://github.com/KartikAg13/DigitDecoder)**.
 
 - 🌱 I’m actively learning and improving my skills in **Machine Learning, Artificial Intelligence, and Data Science**.
 
