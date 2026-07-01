@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **[PitStop](https://github.com/KartikAg13/PitStop)**.
+- 🔭 I’m currently working on **[mlrs](https://github.com/KartikAg13/mlrs)**.
 
 - 🌱 I’m actively learning and improving my skills in **Machine Learning, Artificial Intelligence, and Data Science**.
 
